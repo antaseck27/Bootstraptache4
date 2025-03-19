@@ -1,0 +1,72 @@
+*{
+    
+}
+.navun{
+    background: color(srgb 0 0.462353 0.409412);
+}
+.navun a{
+    color: white;
+}
+.navdeux{
+    background-color: #008374;
+}
+.navdeux a{
+    color: white;
+}
+.sectionun{
+    background-color: #008374;
+    color: white;
+}
+.rang{
+    width: 100%;
+    height: 250PX;
+    background-color: #008374;
+    color: white;
+    font-size: 25px;
+
+}
+.roww{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hr{
+    border: solid 1px;
+    width: 50px;
+    text-align: center;
+}
+.aboutimage{
+    width: 100%;
+}
+.aboutimage2{
+    width: 100%;
+}
+.sroll i img{
+    width: 90px;
+}
+.stats img{
+    width: 120%;
+}
+.action img{
+    width: 100%;
+    height: 500px; 
+}
+.imo{
+    position: relative;
+    bottom: 300px;
+    color: white;
+}
+.statim img{
+    width: 500px;
+}
+.heroim img{
+
+}
+.gaud img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.card-group .tof img{
+    width: 100px;
+}
