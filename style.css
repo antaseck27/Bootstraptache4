@@ -70,3 +70,11 @@
 .card-group .tof img{
     width: 100px;
 }
+
+hr{
+    width: 80px;
+    height: 10px;
+    border: #008374;
+    color: greenyellow;
+
+}
