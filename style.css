@@ -78,3 +78,30 @@ hr{
     color: greenyellow;
 
 }
+.bordee{
+    color: white;
+}
+.bordever{
+    background-color: #008374;
+}
+.bor{
+    background-color: #0d8476a1;
+}
+
+.bute button{
+    background-color: #008374;
+    border: none;
+    border-radius: 10%;
+    padding: 10px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px
+}
+footer{
+    background-color: #008374;
+    color: white;
+}
+hr{
+    width: 180vh;
+    text-align: center;
+}
